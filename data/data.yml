@@ -21,6 +21,11 @@ persons:
     github: rkdarst
     place: Aalto
     skills: ['Python', 'Git', 'HPC', 'Linux', 'C', 'datascience']
+  - name: Jarno Rantaharju
+    homepage: http://jarno.rantaharju.info
+    github: rantahar
+    place: Helsinki University
+    skills: ['Python', 'Git', 'HPC', 'Linux', 'C', 'C++']
 
 groups:
   - name: "Aalto Scientific Computing"
@@ -52,3 +57,6 @@ places:
   - name: IEDL
     lat: 63.415759
     lon: 10.407178
+  - name: HY
+    lat: 60.209110
+    lon: 24.964750
